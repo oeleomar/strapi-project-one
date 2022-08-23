@@ -18,7 +18,7 @@
   "attributes": {
     "menu": {
       "type": "component",
-      "repeatable": true,
+      "repeatable": false,
       "component": "menu.menu",
       "required": true,
       "pluginOptions": {
