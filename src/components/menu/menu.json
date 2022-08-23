@@ -7,24 +7,6 @@
   },
   "options": {},
   "attributes": {
-    "logo_link": {
-      "type": "text",
-      "required": true
-    },
-    "logo_text": {
-      "type": "string",
-      "maxLength": 255,
-      "minLength": 3,
-      "required": true
-    },
-    "logo": {
-      "type": "media",
-      "multiple": false,
-      "required": false,
-      "allowedTypes": [
-        "images"
-      ]
-    },
     "menu_links": {
       "displayName": "menu_link",
       "type": "component",
