@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_button_button_links",
+  "info": {
+    "displayName": "Button_links",
+    "icon": "align-center"
+  },
+  "options": {},
+  "attributes": {
+    "button_title": {
+      "type": "string",
+      "required": true
+    },
+    "button_link": {
+      "type": "text",
+      "required": true
+    },
+    "open_in_new_tab": {
+      "type": "boolean",
+      "default": false,
+      "required": true
+    }
+  }
+}
