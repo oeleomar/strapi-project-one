@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_links_link_texts",
+  "info": {
+    "displayName": "link_text"
+  },
+  "options": {},
+  "attributes": {
+    "link_github": {
+      "type": "text",
+      "required": true
+    },
+    "link_preview": {
+      "type": "text",
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "collectionName": "components_projects_projects",
+  "info": {
+    "displayName": "projects"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "text_component": {
+      "displayName": "rep_text",
+      "type": "component",
+      "repeatable": true,
+      "component": "text.rep-text"
+    },
+    "difficulty": {
+      "type": "enumeration",
+      "enum": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "required": true
+    },
+    "link_text": {
+      "displayName": "link_text",
+      "type": "component",
+      "repeatable": false,
+      "component": "links.link-text",
+      "required": true
+    }
+  }
+}

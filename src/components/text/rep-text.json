@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_text_rep_texts",
+  "info": {
+    "displayName": "rep_text"
+  },
+  "options": {},
+  "attributes": {
+    "technologies": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    }
+  }
+}
