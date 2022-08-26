@@ -1,14 +1,15 @@
 {
   "collectionName": "components_text_rep_texts",
   "info": {
-    "displayName": "rep_text"
+    "displayName": "rep_text",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "technologies": {
       "type": "string",
       "required": true,
-      "unique": true
+      "unique": false
     }
   }
 }
