@@ -24,7 +24,7 @@
     "image_grid": {
       "type": "component",
       "repeatable": true,
-      "component": "section.image-grid",
+      "component": "images.image-grid",
       "required": false
     },
     "metadata": {
