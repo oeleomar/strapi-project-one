@@ -61,17 +61,6 @@
       },
       "component": "projects.projects",
       "required": true
-    },
-    "imagesComponent": {
-      "type": "component",
-      "repeatable": true,
-      "pluginOptions": {
-        "i18n": {
-          "localized": false
-        }
-      },
-      "component": "images.image-grid",
-      "required": true
     }
   }
 }
